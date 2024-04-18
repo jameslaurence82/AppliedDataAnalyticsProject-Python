@@ -1,5 +1,5 @@
 # AppliedDataAnalyticsProject-Python
-This project will take replace my R, SSIS, PowerShell version of my project to fully utilize python.
+_This project will take replace my R, SSIS, PowerShell version of my project to fully utilize python._
 
 ### Original Project Requirements:
 1.	Download daily/weekly or monthly updates for all your data sources in csv format.
@@ -23,7 +23,7 @@ b.	Specific metrics of interest to the user
 a.	Prediction Model Results e.g. AUC/RSME etc
 b.	Specific metrics of interest to the user
 
-Save/Load Predictive Model in python
+__Save/Load Predictive Model in python__
 https://www.kaggle.com/code/prmohanty/python-how-to-save-and-load-ml-models
-Running a python script in Power BI
+__Running a python script in Power BI__
 https://learn.microsoft.com/en-us/power-bi/connect-data/desktop-python-scripts
