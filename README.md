@@ -23,7 +23,7 @@ b.	Specific metrics of interest to the user
 a.	Prediction Model Results e.g. AUC/RSME etc
 b.	Specific metrics of interest to the user
 
-__Save/Load Predictive Model in python__
-https://www.kaggle.com/code/prmohanty/python-how-to-save-and-load-ml-models
-__Running a python script in Power BI__
-https://learn.microsoft.com/en-us/power-bi/connect-data/desktop-python-scripts
+__Save/Load Predictive Model in python__ <br>
+https://www.kaggle.com/code/prmohanty/python-how-to-save-and-load-ml-models <br>
+__Running a python script in Power BI__ <br>
+https://learn.microsoft.com/en-us/power-bi/connect-data/desktop-python-scripts <br>
