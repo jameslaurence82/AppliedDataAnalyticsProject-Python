@@ -1,15 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sat Aug 17 10:55:32 2024
+Predicitve Analytics Project.
 
-@author: james
-"""
-
-# -*- coding: utf-8 -*-
-"""
-This is my Predicitve Analytics Project redux
 Previoulsy used Powershell, R, SQL Server, PowerBI
-
 This Will be Python exclusive, with SQL Server and PowerBI
 Thales Stock Price Predictive Analysis
 
@@ -50,6 +43,7 @@ import scipy
 import sklearn
 from datetime import datetime as dt, timedelta as td
 import sqlalchemy
+import flask
 
 TODAY_DATE = dt.today()
 SCRIPT_PATH = r"E:/NSCC/5-Data Analytics Winter 2024/DBAS3090 - Applied Data Analytics/PythonProject"
